@@ -9,4 +9,3 @@ python-dotenv
 pdfplumber
 python-docx
 lxml
-tempfile
